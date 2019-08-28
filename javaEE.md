@@ -71,3 +71,17 @@ web字符编码（转码）： <br/>1.过滤器：web.xml;<br/>
 
 数据库转码(2种方式)<br/>
  数据库本身的编码<br/> 程序中链接数据库的链接字符串
+ 
+Spring:<br/>
+ IOC:依赖注入、控制反转  applicationContext.xml<br/>
+ AOP:面向切面编程(8个术语)<br/>
+     切面Aspect<br/>
+     切点PointCut<br/>
+     织入Weave<br/>
+     通知Advice<br/>
+     目标对象TargetObject<br/>
+     连接点JoinPoint<br/>
+     代理对象ProxyObject<br/>
+     Introduction<br/>
+     []横切关注点Accross Cutting Point
+     
